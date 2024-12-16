@@ -22,7 +22,7 @@ This type of Random Forest Classification Models are highly used in **Finance In
 
 # Dataset for Training Model
 
-[loan_grant_training_data.csv](https://github.com/mokshverma-dev/loan-approval-prediction-model/blob/main/loan_grant_training_data.csv)
+[WA_Fn-UseC_-Telco-Customer-Churn.csv](https://github.com/mokshverma-dev/customer-churn-analysis-and-prediction/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv)
 
 ## Tech Stack
 
