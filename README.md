@@ -16,7 +16,9 @@ This type of Random Forest Classification Models are highly used in **Finance In
 
 # ML Model Code
 
-[loan_grant_prediction_model.ipynb](https://github.com/mokshverma-dev/loan-approval-prediction-model/blob/main/loan_grant_prediction_model.ipynb)
+[Model & Analytics.ipynb](https://github.com/mokshverma-dev/customer-churn-analysis-and-prediction/blob/main/Model%20%26%20Analytics.ipynb)
+
+[Model & Prediction.ipynb](https://github.com/mokshverma-dev/customer-churn-analysis-and-prediction/blob/main/Model%20%26%20Prediction.ipynb)
 
 # Dataset for Training Model
 
