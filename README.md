@@ -8,11 +8,11 @@
 
 # What is the Purpose of this Project?
 
-This Random Forest Classification Machine Learning Model helps in Predicting whether the Candidate is capable of Repaying the Loan. Based on some Labels/Attributes this Machine Learning Model Predicts whether to Grant Loan to that Candidate or not!
+Customer Churn Analysis is performed to understand reasons and factors that lead to Churn(Customer leaving product/service). So that Company can better understand its loopholes and reduce Churn!
 
 # Industry Requirement?
 
-This type of Random Forest Classification Models are highly used in **Finance Industry**(Corporate Banks and more).
+This Customer Churn Analysis is used in All Industries.
 
 # ML Model Code
 
